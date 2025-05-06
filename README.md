@@ -1,5 +1,5 @@
 ## Hello there, I am Albaz
-A passionate front-end developer currently working at [AntStack Technologies](https://www.https://www.antstack.io/)<img src="https://camo.githubusercontent.com/5118700f8dfe70ee71b3f92ad6199e1dfb318a89114a8fe7450a571fa9bff57f/687474703a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f646f6d61696e3d7777772e616e74737461636b2e696f">. Likes to learn and experiment new technologies.
+A passionate front-end developer. Likes to learn and experiment new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
