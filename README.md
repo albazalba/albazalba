@@ -1,5 +1,5 @@
 ## Hello there, I am Albaz
-A passionate front-end developer. Likes to learn and experiment new technologies.
+A passionate developer. Likes to learn and experiment new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
