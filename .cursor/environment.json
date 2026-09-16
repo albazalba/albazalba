@@ -1,0 +1,17 @@
+{
+  "name": "albazalba profile README",
+  "install": "pip3 install --user grip",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "python3 -m grip README.md 0.0.0.0:3000",
+      "description": "Serves a live GitHub-style preview of README.md at http://localhost:3000, rendered with grip exactly as it appears on GitHub."
+    }
+  ],
+  "ports": [
+    {
+      "name": "readme-preview",
+      "port": 3000
+    }
+  ]
+}
